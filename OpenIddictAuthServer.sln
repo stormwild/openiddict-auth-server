@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{82928BDB-E818-4D1E-94B6-BA0C50650850}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIddictAuthServer.Web", "src\OpenIddictAuthServer.Web\OpenIddictAuthServer.Web.csproj", "{91A7678F-4818-4E34-B701-DF737B994B42}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91A7678F-4818-4E34-B701-DF737B994B42}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A7678F-4818-4E34-B701-DF737B994B42}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A7678F-4818-4E34-B701-DF737B994B42}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A7678F-4818-4E34-B701-DF737B994B42}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{91A7678F-4818-4E34-B701-DF737B994B42} = {82928BDB-E818-4D1E-94B6-BA0C50650850}
+	EndGlobalSection
+EndGlobal
